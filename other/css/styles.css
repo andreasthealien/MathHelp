@@ -1,0 +1,99 @@
+body {
+    margin: 0px; /* color hunt i will use at FP  shorturl.at/bdeM7  06283d256d8547b5ffdff6ff*/
+    background-color: #DFF6FF;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+h4 {
+    font-family: sans-serif;
+}
+
+h5 {
+    font-family: sans-serif;
+}
+
+h6 {
+    font-family: sans-serif;
+}
+
+span {
+    font-family: sans-serif;
+}
+
+label {
+    font-family: sans-serif;
+}
+
+.sans {
+    font-family: sans;
+}
+
+.topbarFP1 {
+    margin: auto;
+    position: absolute;
+    right: 3%;
+    top: 15px;
+    font-size: 21px;
+    color:gainsboro;
+    text-decoration: none;
+}
+
+.topbarFP2 {
+    margin: auto;
+    position: absolute;
+    right: 18%;
+    top: 15px;
+    font-size: 21px;
+    color:gainsboro;
+    text-decoration: none;
+}
+
+.topbarFP3 {
+    margin: auto;
+    position: absolute;
+    right: 30%;
+    top: 15px;
+    font-size: 21px;
+    color:gainsboro;
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+}
+
+#upbar {
+    background-color: #06283D;
+    height: 60px;
+}
+
+#betweentopFP1 {
+    color: white;
+    font-size: 25px;
+    top: 12px;
+    right: 12.65%;
+    margin: 0px;
+}
+
+#betweentopFP2 {
+    color: white;
+    font-size: 25px;
+    top: 12px;
+    right: 26%;
+    margin: 0px;
+}
