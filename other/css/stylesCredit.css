@@ -73,6 +73,15 @@ label {
     text-decoration: none;
 }
 
+.sizeEqual {
+    height: 300px;
+}
+
+.biocredit {
+    text-align: center;
+    align-self: center;
+}
+
 a:hover {
     color: grey;
 }
