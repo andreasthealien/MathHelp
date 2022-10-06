@@ -44,6 +44,10 @@ label {
     font-family: sans;
 }
 
+.centerit {
+    text-align: center;
+}
+
 .topbarFP1 {
     margin: auto;
     position: absolute;
@@ -52,10 +56,6 @@ label {
     font-size: 21px;
     color:gainsboro;
     text-decoration: none;
-}
-
-.centerit {
-    text-align: center;
 }
 
 .topbarFP2 {
@@ -72,36 +72,10 @@ label {
     margin: auto;
     position: absolute;
     right: 35%;
-    top: 15px;
+    top: 15px;              /* this */
     font-size: 21px;
     color:gainsboro;
     text-decoration: none;
-}
-
-.sizeEqual {
-    height: 300px;
-}
-
-.biocredit {
-    text-align: center;
-    align-self: center;
-}
-
-.bornincredit {
-    color: lightslategrey;
-}
-
-.halfline {
-    margin-bottom: 4px;
-    margin-top: 4px;
-    text-align: left;
-}
-
-.prettyhr1 {
-    width: 40%;
-    border-style: dotted none none none;
-    border-width: 5px;
-    border-color: #798182;
 }
 
 a:hover {
@@ -125,7 +99,7 @@ a:hover {
     color: white;
     font-size: 25px;
     top: 12px;
-    right: 30%;
+    right: 29.5%; /* this */
     margin: 0px;
 }
 
@@ -135,10 +109,4 @@ a:hover {
     position: absolute;
     top: -57px;
     left: -33px;
-}
-
-#invdiv {
-    width: 50%;
-    height: 100px;
-    margin-left: 40%;
 }

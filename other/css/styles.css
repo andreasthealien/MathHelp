@@ -1,5 +1,7 @@
 body {
     margin: 0px; /* color hunt i will use at FP  shorturl.at/bdeM7  06283d256d8547b5ffdff6ff*/
+    margin-bottom: 250px;
+    background-image: url("../images/credit.png");
     background-color: #DFF6FF;
 }
 
@@ -43,6 +45,10 @@ label {
     font-family: sans;
 }
 
+.centerit {
+    text-align: center;
+}
+
 .topbarFP1 {
     margin: auto;
     position: absolute;
@@ -66,8 +72,8 @@ label {
 .topbarFP3 {
     margin: auto;
     position: absolute;
-    right: 30%;
-    top: 15px;
+    right: 35%;
+    top: 15px;              /* this */
     font-size: 21px;
     color:gainsboro;
     text-decoration: none;
@@ -94,7 +100,7 @@ a:hover {
     color: white;
     font-size: 25px;
     top: 12px;
-    right: 26%;
+    right: 29.5%; /* this */
     margin: 0px;
 }
 
