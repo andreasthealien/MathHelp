@@ -111,3 +111,27 @@ a:hover {
     top: -57px;
     left: -33px;
 }
+
+#FPwelcomelogo {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*  
+
+#FpHeader {
+    height: 400px;
+}
+
+#FpHeaderText {
+    margin-top: 4%;
+    font-size: 3.5rem;
+    width: 25rem;
+    border-radius: 35%;
+    background: rgba(128,128,128,.1)
+    
+}
+
+*/
