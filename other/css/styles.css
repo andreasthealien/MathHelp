@@ -119,19 +119,15 @@ a:hover {
     margin-right: auto;
 }
 
-/*  
-
-#FpHeader {
-    height: 400px;
+#reasonstouse {
+    transform: rotate(-2deg);
+    position: relative;
+    bottom: 25px;
+    left: 0%;
 }
 
-#FpHeaderText {
-    margin-top: 4%;
-    font-size: 3.5rem;
-    width: 25rem;
-    border-radius: 35%;
-    background: rgba(128,128,128,.1)
-    
+#getToKnowYourCoaches {
+    position: relative;
+    bottom: 20rem;
+    left: 54rem;
 }
-
-*/
