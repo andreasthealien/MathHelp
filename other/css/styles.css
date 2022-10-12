@@ -1,8 +1,7 @@
 body {
     margin: 0px; /* color hunt i will use at FP  shorturl.at/bdeM7  06283d256d8547b5ffdff6ff*/
     margin-bottom: 250px;
-    background-image: url("../images/credit.png");
-    background-color: #DFF6FF;
+    background-image: linear-gradient(rgba(0, 238, 255, 0.87), rgb(0, 106, 255));
 }
 
 p {
@@ -117,6 +116,8 @@ a:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    position: relative;
+    bottom: 30px;
 }
 
 #reasonstouse {
@@ -128,6 +129,7 @@ a:hover {
 
 #getToKnowYourCoaches {
     position: relative;
-    bottom: 20rem;
+    bottom: 24rem;
     left: 54rem;
+    width: 550px;
 }
